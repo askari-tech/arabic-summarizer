@@ -1,0 +1,9 @@
+fastapi
+pydantic
+beautifulsoup4
+transformers
+torch
+nltk
+uvicorn
+requests
+python-multipart
